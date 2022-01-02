@@ -1,0 +1,35 @@
+Variables:
+
+Es un elemento que almacena o lleva guardado un dato, este dato va cambiando cuando se ingresa mas información que esta vinculada en ese elemento. 
+Un ejemplo puede ser en un aula de clase ingresan varios niños y se quiere saber cuales son los nombres de los niños, pues para eso se crea un elemento
+llamado nombre y este va anotar los nombres de los niños una vez ingresen al aula.
+
+String:
+
+Un string es un tipo de caracter que posee una variable y este puede tener elementos de textos o alguna oración que puede ser finita.
+
+Funciones:
+
+Una función es una instrucción que se manda a realizar para que esta sea cumplida.
+
+Argumento: 
+
+Es la operación que va a realizar la función o instrucción que se va a dar.
+
+Return: 
+
+Es el resultado que va a mostrar esa instrucción de acuerdo a sus argumentos o pautas que se le indican.
+
+Declaraciones if:
+
+Es un ciclo que se crea para validar una accion u operacion.
+
+Valores Booleanos:
+
+Son valores de verdadero y falso.
+
+Ejemplo: cuando queremos comprobar si un color de una pintura que se manda a pedir en una tienda es el color que solicitamos comprar. Para ello, creamos la instrucción y dentro del 
+argumento indicamos cual fue el color que solicitamos. Entonces dentro de esta función validará si el color de pintura que se solicito es el color correcto. De ser asi me muestra
+un mensaje que indique que si es correcto y me da el nombre del color o en caso que no sea correcto, me muestre que no es el color solicitado y hay que cambiarlo.
+
+
